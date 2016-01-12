@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+#my personal rule for my C&Keil Project
+/STM32F10x_FWLib/*
+/OBJ/*
+
